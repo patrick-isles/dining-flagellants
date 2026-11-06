@@ -1,0 +1,10 @@
+[package]
+name = "dining-flagellants"
+version = "1.0.0"
+edition = "2021"
+authors = ["Patrick Isles <isles12123@outlook.com>"]
+description = "A foul, necrophagic inversion of Dijkstra's Dining Philosophers problem scored to Deathspell Omega's Fas and Cormac McCarthy's Outer Dark."
+license = "MIT"
+
+[dependencies]
+colored = "2.1"
